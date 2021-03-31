@@ -150,6 +150,7 @@ header.sticky {
 }
 #banner .logo img{
 	padding: 10px 0 20px;
+	max-width:150px;
 }
 header a  img {
 	width:auto;
