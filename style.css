@@ -182,7 +182,7 @@ header .fa {
 		font-size:34px;
 		width:40px;
 		height:40px;
-		padding:2px;
+		text-align:center;
 		background-color: rgba(255,255,255,0.8);
 }
 .menuside {
