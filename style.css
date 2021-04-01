@@ -180,6 +180,8 @@ nav {
 }
 header .fa {
 		font-size:34px;
+		width:25px;
+		height:25px;
 		padding:2px;
 		background-color: rgba(255,255,255,0.8);
 }
